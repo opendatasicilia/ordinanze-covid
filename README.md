@@ -12,20 +12,20 @@ Dati estratti da [Totò Fiandaca](https://twitter.com/totofiandaca)
 **File:** `data.csv` <br>
 Campo | Descrizione | Formato | Esempio
 -- | -- | -- | --
-comune | Denominazione del Comune | tbd | tbd
-pro_com | Codice ISTAT del Comune | tbd | tbd
-provincia | Denominazione Provincia | tbd | tbd
-dataInizio | Data di inizio delle restrizioni | tbd | tbd
-dataFine | Data di fine delle restrizioni | tbd | tbd
-link_ordinanza | URL ordinanza della Presidenza della Regione Siciliana | tbd | tbd
+comune | Denominazione del Comune | Testo | Catania
+pro_com_t | Codice ISTAT del Comune | Testo | 087015
+provincia | Denominazione Provincia | Testo | Catania
+dataInizio | Data di inizio delle restrizioni | YYYY-MM-DD | 2021-05-12
+dataFine | Data di fine delle restrizioni | YYYY-MM-DD | 2021-05-12
+link_ordinanza | URL ordinanza della Presidenza della Regione Siciliana | Testo | https://www.regione.sicilia.it/sites/default/files/2021-12/ordinanza%20n.107.pdf
 nro_data_ordinanza | ⚠️ | tbd | tbd
 proroga/cessa | ⚠️ | tbd | tbd
-PDF | Accessibilità dei file PDF | tbd | tbd
-nro_pgg | Numero di pagine dell'ordinanza | tbd | tbd
+PDF | Accessibilità dei file PDF | Testo | Immagine
+nro_pgg | Numero di pagine dell'ordinanza | Numero | 6
 sovrapposizione | ⚠️ | tbd | tbd
 cessa | ⚠️ | tbd | tbd
-nro_ordinanza | Numero dell'ordinanza della Presidenza della Regione Siciliana | tbd | tbd
-data_ordinanza | Data dell'ordinanza della Presidenza della Regione Siciliana | tbd | tbd
+nro_ordinanza | Numero dell'ordinanza della Presidenza della Regione Siciliana | Numero | 1
+data_ordinanza | Data dell'ordinanza della Presidenza della Regione Siciliana | YYYY-MM-DD | 2021-05-12
 area_kmq | ⚠️ da rimuovere | tbd | tbd
 pop_2020 | ⚠️ da rimuovere | tbd | tbd
 note | tbd | tbd | tbd
