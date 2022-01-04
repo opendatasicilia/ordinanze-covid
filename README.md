@@ -1,4 +1,4 @@
-# ordinanze_covid_sicilia
+# Ordinanze COVID Regione Siciliana
 Upload CSV from google sheet to GitHub
 
 Dati estratti da [Totò Fiandaca](https://twitter.com/totofiandaca)
