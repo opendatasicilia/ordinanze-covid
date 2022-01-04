@@ -18,16 +18,16 @@ provincia | Denominazione Provincia | tbd | tbd
 dataInizio | Data di inizio delle restrizioni | tbd | tbd
 dataFine | Data di fine delle restrizioni | tbd | tbd
 link_ordinanza | URL ordinanza della Presidenza della Regione Siciliana | tbd | tbd
-nro_data_ordinanza | tbd | tbd | tbd
-proroga/cessa | tbd | tbd | tbd
+nro_data_ordinanza | ⚠️ | tbd | tbd
+proroga/cessa | ⚠️ | tbd | tbd
 PDF | Accessibilità dei file PDF | tbd | tbd
 nro_pgg | Numero di pagine dell'ordinanza | tbd | tbd
-sovrapposizione | tbd | tbd | tbd
-cessa | tbd | tbd | tbd
+sovrapposizione | ⚠️ | tbd | tbd
+cessa | ⚠️ | tbd | tbd
 nro_ordinanza | Numero dell'ordinanza della Presidenza della Regione Siciliana | tbd | tbd
 data_ordinanza | Data dell'ordinanza della Presidenza della Regione Siciliana | tbd | tbd
-area_kmq | tbd | tbd | tbd
-pop_2020 | tbd | tbd | tbd
+area_kmq | ⚠️ da rimuovere | tbd | tbd
+pop_2020 | ⚠️ da rimuovere | tbd | tbd
 note | tbd | tbd | tbd
 zona | Tipologia di restrizioni applicate | tbd | tbd
 
