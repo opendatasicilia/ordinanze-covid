@@ -6,6 +6,26 @@ Comuni siciliani in Zona Rossa, Arancione, Gialla
 Dati estratti da [Totò Fiandaca](https://twitter.com/totofiandaca)
 
 ## Schema dati
+Campo | Descrizione | Formato | Esempio
+-- | -- | -- | --
+comune | tbd | tbd | tbd
+pro_com | tbd | tbd | tbd
+provincia | tbd | tbd | tbd
+dataInizio | tbd | tbd | tbd
+dataFine | tbd | tbd | tbd
+link_ordinanza | tbd | tbd | tbd
+nro_data_ordinanza | tbd | tbd | tbd
+proroga/cessa | tbd | tbd | tbd
+PDF | tbd | tbd | tbd
+nro_pgg | tbd | tbd | tbd
+sovrapposizione | tbd | tbd | tbd
+cessa | tbd | tbd | tbd
+nro_ordinanza | tbd | tbd | tbd
+data_ordinanza | tbd | tbd | tbd
+area_kmq | tbd | tbd | tbd
+pop_2020 | tbd | tbd | tbd
+note | tbd | tbd | tbd
+zona | tbd | tbd | tbd
 
 ## Link utili
 - [Blogpost (IT)](https://opendatasicilia.it/2021/04/10/covid-19-e-i-comuni-siciliani-in-zona-rossa-anno-2021/) di [Totò Fiandaca](https://twitter.com/totofiandaca)
