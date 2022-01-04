@@ -6,6 +6,8 @@ Comuni siciliani in Zona Rossa, Arancione, Gialla
 Dati estratti da [Totò Fiandaca](https://twitter.com/totofiandaca)
 
 ## Schema dati
+**Directory:** root <br>
+**File:** `data.csv` <br>
 Campo | Descrizione | Formato | Esempio
 -- | -- | -- | --
 comune | tbd | tbd | tbd
