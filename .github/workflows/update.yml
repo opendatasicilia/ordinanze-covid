@@ -16,7 +16,7 @@ jobs:
       
       - name: Update CSV data
         run: |
-          curl -kL "https://docs.google.com/spreadsheets/d/e/2PACX-1vSA38rXb3R9B0lYUtHvgvr9aWcxwiYAxksTTAg-jIbe1qjGh2bGANgUlUnuynG-UL6U2iLY7rgPvuOH/pub?gid=1759652035&single=true&output=csv" > ordinanze_covid_sicilia.csv
+          curl -kL "https://docs.google.com/spreadsheets/d/e/2PACX-1vSA38rXb3R9B0lYUtHvgvr9aWcxwiYAxksTTAg-jIbe1qjGh2bGANgUlUnuynG-UL6U2iLY7rgPvuOH/pub?gid=1759652035&single=true&output=csv" > data.csv
           echo "Dati aggiornati!"
 
       - name: Update Repository
