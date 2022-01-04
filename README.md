@@ -36,3 +36,9 @@ zona | tbd | tbd | tbd
 
 ![image](https://user-images.githubusercontent.com/77018886/148086816-0eadbf00-0aa6-4618-bc58-4534ca5b11e0.png)
 _Screenshot al 2022-01-04_
+
+👉 Se vuoi includere questa mappa dinamica e interattiva sul tuo sito, copia il codice sottostante
+
+```
+<iframe title="2022 | Comuni siciliani attualmente in zona rossa/arancione/gialla" aria-label="Mappa" id="datawrapper-chart-KcM9c" src="https://datawrapper.dwcdn.net/KcM9c/30/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1767"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}(); </script>
+```
