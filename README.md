@@ -38,7 +38,8 @@ area_kmq | ⚠️ rimuoverei il campo (solo su GitHub) | tbd | tbd
 pop_2020 | ⚠️ rimuoverei il campo (solo su GitHub) | tbd | tbd
 
 Note: <br>
-Attualmente la frequenza di aggiornamento dei dati è settimanale ma si può "forzare" molto semplicemente ogni volta che si aggiorna lo sheet. Basta fare click su `Actions` > `Update data` > `Run workflow` > `Run workflow`
+- tbd: to be determined
+- Attualmente la frequenza di aggiornamento dei dati è settimanale ma si può "forzare" molto semplicemente ogni volta che si aggiorna lo sheet. Basta fare click su `Actions` > `Update data` > `Run workflow` > `Run workflow`
 
 ## Link utili
 - [Blogpost (IT)](https://opendatasicilia.it/2021/04/10/covid-19-e-i-comuni-siciliani-in-zona-rossa-anno-2021/) di [Totò Fiandaca](https://twitter.com/totofiandaca)
