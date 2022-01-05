@@ -21,7 +21,7 @@ pro_com | Codice ISTAT del Comune | Numero | 87015
 provincia | Denominazione Provincia | Testo | Catania
 dataInizio | Data di inizio delle restrizioni | YYYY-MM-DD | 2021-05-12
 dataFine | Data di fine delle restrizioni | YYYY-MM-DD | 2021-05-12
-link_ordinanza | URL ordinanza della Presidenza della Regione Siciliana | Testo | https://www.regione.sicilia.it/sites/default/files/2021-12/ordinanza%20n.107.pdf
+link_ordinanza | URL ordinanza della Presidenza della Regione Siciliana | Testo | https://www.regione.sicilia.it/sites/default/files/2021-07/re346.pdf
 nro_data_ordinanza | ⚠️ | tbd | tbd
 proroga/cessa | ⚠️ | tbd | tbd
 PDF | Accessibilità dei file PDF | Testo | Immagine
