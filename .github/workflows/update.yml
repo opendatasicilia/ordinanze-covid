@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v2
       - name: installa miller
         run: |-
-          sudo apt-get install miller
+          sudo pip install csvkit
         
       - name: Update CSV data
         run: |
@@ -24,7 +24,7 @@ jobs:
 
       - name: build JSON
         run: |
-          mlr --c2j cat data.csv > data.json
+          csvjson data.csv > data.json
           echo "JSON creato!"
 
       - name: Update Repository
