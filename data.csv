@@ -1,4 +1,4 @@
-pro_com,comune,zona,data_inizio,data_fine,nro_data_ordinanza,nro_ordinanza,data_ordinanza,PDF,nro_pgg,link_ordinanza,note
+pro_com,comune,zona,data_inizio,data_fine,id_ordinanza,nro_ordinanza,data_ordinanza,PDF,nro_pgg,link_ordinanza,note
 83008,Capizzi,rossa,2021-01-03,2021-01-13,01-03012021,1,2021-01-03,Testo,6,https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%201-2021.pdf,
 85010,Milena,rossa,2020-12-23,2021-01-04,65-21122020,65,2020-12-21,Testo,5,https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-65-21122020.pdf,
 85010,Milena,rossa,2021-01-04,2021-01-17,02-04012021,2,2021-01-04,Immagine,6,https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/ordinanza-2-04012021.pdf,
