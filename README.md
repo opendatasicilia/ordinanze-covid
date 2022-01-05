@@ -17,7 +17,7 @@ Dati estratti da [Totò Fiandaca](https://twitter.com/totofiandaca)
 Campo | Descrizione | Formato | Esempio
 -- | -- | -- | --
 comune | Denominazione del Comune | Testo | Catania
-pro_com | Codice ISTAT del Comune | Numero | 87015
+pro_com | Codice ISTAT numerico del Comune | Numero | 87015
 provincia | Denominazione Provincia | Testo | Catania
 dataInizio | Data di inizio delle restrizioni | YYYY-MM-DD | 2021-05-12
 dataFine | Data di fine delle restrizioni | YYYY-MM-DD | 2021-05-12
