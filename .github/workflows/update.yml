@@ -25,7 +25,7 @@ jobs:
 
       - name: Build JSON
         run: |
-          csvjson data.csv > data.json
+          csvjson -I data.csv > data.json
           echo "JSON creato!"
 
       - name: Update Repository
