@@ -5,11 +5,11 @@ A partire dal 21 dicembre 2020, la Presidenza della Regione Siciliana emette ord
 
 I PDF non si prestano a una facile lettura, soprattutto se sono immagini (in questo caso non è nemmeno possibile effettuare ricerche), da parte di macchine e tantomeno da parte degli umani, in quanto si troverebbero davanti a centinaia di pagine; allora abbiamo pensato di raccogliere tutte le ordinanze in un foglio elettronico (che alimenta i dati di questo repository) e rilasciare queste informazioni in formato open.
 
-Comuni siciliani in Zona Rossa, Arancione, Gialla
-
 Dati estratti da [Totò Fiandaca](https://twitter.com/totofiandaca)
 
 ## Schema dati
+
+Comuni siciliani in Zona Rossa, Arancione, Gialla
 
 - Directory: `root`
 - File: `data.csv`
