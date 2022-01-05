@@ -25,7 +25,7 @@ jobs:
 
       - name: Build JSON
         run: |
-          mlr --icsv --ojson --jlistwrap cat data.csv > data.json
+          mlr --icsv --ojson --jlistwrap --jvstack cat data.csv > data.json
           echo "JSON creato!"
 
       - name: Update Repository
