@@ -3,7 +3,9 @@
 
 Scrivere README
 
-_Ulteriori misure per l'emergenza epidemiologica da Covid-19_
+A partire dal 21 dicembre 2020, la Presidenza della Regione Siciliana emette ordinanze in PDF (_Ulteriori misure per l'emergenza epidemiologica da Covid-19_)con le quale impone restrizioni ai comuni siciliani (zone rosse, arancioni, gialle). Tali file, spesso frutto di scansione, sono raccolti nel [sito ufficiale](https://www.regione.sicilia.it/) nella sezione “SERVIZI INFORMATIVI | ORDINANZE COVID-19”.
+
+I PDF non si prestano a una facile lettura, soprattutto se sono immagini (in questo caso non è nemmeno possibile effettuare ricerche), da parte di macchine e tantomeno da parte degli umani, in quanto si troverebbero davanti a centinaia di pagine; allora abbiamo pensato di raccogliere tutte le ordinanze in un foglio elettronico (che alimenta i dati di questo repository) e rilasciare queste informazioni in formato open.
 
 Comuni siciliani in Zona Rossa, Arancione, Gialla
 
