@@ -24,7 +24,7 @@ provincia | Denominazione Provincia | Testo | Catania
 zona | Tipologia di restrizioni applicate | Testo | rossa
 data_inizio | Data di inizio delle restrizioni | YYYY-MM-DD | 2021-05-12
 data_fine | Data di fine delle restrizioni | YYYY-MM-DD | 2021-05-12
-nro_data_ordinanza | ⚠️ rinominerei in 'id_ordinanza'. Codice identifico dell'ordinanza che indica il numero e la data dell'ordinanza nel formato DDMMYYYY| Testo | 01-03012021
+id_ordinanza | Codice identifico dell'ordinanza. Indica il numero e la data dell'ordinanza nel formato DDMMYYYY| Testo | 01-03012021
 nro_ordinanza | Numero dell'ordinanza della Presidenza della Regione Siciliana | Numero | 1
 data_ordinanza | Data dell'ordinanza della Presidenza della Regione Siciliana | YYYY-MM-DD | 2021-05-12
 PDF | Accessibilità dei file PDF | Testo | Immagine
