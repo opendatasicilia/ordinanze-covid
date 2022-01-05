@@ -1,4 +1,4 @@
-name: Update CSV
+name: Update data
 
 on:
   schedule:
