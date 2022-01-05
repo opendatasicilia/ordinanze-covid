@@ -18,24 +18,24 @@ Dati estratti da [Totò Fiandaca](https://twitter.com/totofiandaca)
 
 Campo | Descrizione | Formato | Esempio
 -- | -- | -- | --
-comune | Denominazione del Comune | Testo | Catania
 pro_com | Codice ISTAT numerico del Comune | Numero | 87015
+comune | Denominazione del Comune | Testo | Catania
 provincia | Denominazione Provincia | Testo | Catania
+zona | Tipologia di restrizioni applicate | Testo | rossa
 data_inizio | Data di inizio delle restrizioni | YYYY-MM-DD | 2021-05-12
 data_fine | Data di fine delle restrizioni | YYYY-MM-DD | 2021-05-12
-link_ordinanza | URL ordinanza della Presidenza della Regione Siciliana | Testo | https://www.google.it
 nro_data_ordinanza | ⚠️ rinominerei in 'id_ordinanza'. Codice identifico dell'ordinanza che indica il numero e la data dell'ordinanza nel formato DDMMYYYY| Testo | 01-03012021
-proroga/cessa | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
-PDF | Accessibilità dei file PDF | Testo | Immagine
-nro_pgg | Numero di pagine dell'ordinanza | Numero | 6
-sovrapposizione | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
-cessa | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
 nro_ordinanza | Numero dell'ordinanza della Presidenza della Regione Siciliana | Numero | 1
 data_ordinanza | Data dell'ordinanza della Presidenza della Regione Siciliana | YYYY-MM-DD | 2021-05-12
+PDF | Accessibilità dei file PDF | Testo | Immagine
+nro_pgg | Numero di pagine dell'ordinanza | Numero | 6
+link_ordinanza | URL ordinanza della Presidenza della Regione Siciliana | Testo | https://www.google.it
+note | tbd | tbd | tbd
+proroga/cessa | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
+sovrapposizione | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
+cessa | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
 area_kmq | ⚠️ rimuoverei il campo (solo su GitHub) | tbd | tbd
 pop_2020 | ⚠️ rimuoverei il campo (solo su GitHub) | tbd | tbd
-note | tbd | tbd | tbd
-zona | Tipologia di restrizioni applicate | Testo | rossa
 
 ## Link utili
 - [Blogpost (IT)](https://opendatasicilia.it/2021/04/10/covid-19-e-i-comuni-siciliani-in-zona-rossa-anno-2021/) di [Totò Fiandaca](https://twitter.com/totofiandaca)
