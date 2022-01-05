@@ -19,8 +19,8 @@ Campo | Descrizione | Formato | Esempio
 comune | Denominazione del Comune | Testo | Catania
 pro_com | Codice ISTAT numerico del Comune | Numero | 87015
 provincia | Denominazione Provincia | Testo | Catania
-dataInizio | Data di inizio delle restrizioni | YYYY-MM-DD | 2021-05-12
-dataFine | Data di fine delle restrizioni | YYYY-MM-DD | 2021-05-12
+data_inizio | Data di inizio delle restrizioni | YYYY-MM-DD | 2021-05-12
+data_fine | Data di fine delle restrizioni | YYYY-MM-DD | 2021-05-12
 link_ordinanza | URL ordinanza della Presidenza della Regione Siciliana | Testo | https://www.google.it
 nro_data_ordinanza | ⚠️ | tbd | tbd
 proroga/cessa | ⚠️ | tbd | tbd
