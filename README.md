@@ -29,7 +29,7 @@ data_ordinanza | Data dell'ordinanza della Presidenza della Regione Siciliana | 
 PDF | Accessibilità dei file PDF | Testo | Immagine
 nro_pgg | Numero di pagine dell'ordinanza | Numero | 6
 link_ordinanza | URL ordinanza della Presidenza della Regione Siciliana | Testo | https://www.google.it
-note | tbd | tbd | tbd
+note | Eventuali annotazioni | Testo | Lorem ipsum
 provincia | ⚠️ rimuoverei il campo (solo su GitHub) |  | 
 proroga/cessa | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
 sovrapposizione | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
