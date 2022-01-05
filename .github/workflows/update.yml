@@ -13,16 +13,17 @@ jobs:
       
       - name: Git checkout
         uses: actions/checkout@v2
-      - name: installa miller
+        
+      - name: Installing miller
         run: |-
-          sudo pip install csvkit
+          pip install csvkit
         
       - name: Update CSV data
         run: |
           curl -kL "https://docs.google.com/spreadsheets/d/e/2PACX-1vSA38rXb3R9B0lYUtHvgvr9aWcxwiYAxksTTAg-jIbe1qjGh2bGANgUlUnuynG-UL6U2iLY7rgPvuOH/pub?gid=1759652035&single=true&output=csv" > data.csv
           echo "Dati aggiornati!"
 
-      - name: build JSON
+      - name: Build JSON
         run: |
           csvjson data.csv > data.json
           echo "JSON creato!"
