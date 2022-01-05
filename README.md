@@ -24,7 +24,7 @@ provincia | Denominazione Provincia | Testo | Catania
 data_inizio | Data di inizio delle restrizioni | YYYY-MM-DD | 2021-05-12
 data_fine | Data di fine delle restrizioni | YYYY-MM-DD | 2021-05-12
 link_ordinanza | URL ordinanza della Presidenza della Regione Siciliana | Testo | https://www.google.it
-nro_data_ordinanza | ⚠️ rinominerei in 'id_ordinanza' | tbd | tbd
+nro_data_ordinanza | ⚠️ rinominerei in 'id_ordinanza'. Codice identifico dell'ordinanza che indica il numero e la data dell'ordinanza nel formato DDMMYYYY| Testo | 01-03012021
 proroga/cessa | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
 PDF | Accessibilità dei file PDF | Testo | Immagine
 nro_pgg | Numero di pagine dell'ordinanza | Numero | 6
@@ -32,8 +32,8 @@ sovrapposizione | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da 
 cessa | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
 nro_ordinanza | Numero dell'ordinanza della Presidenza della Regione Siciliana | Numero | 1
 data_ordinanza | Data dell'ordinanza della Presidenza della Regione Siciliana | YYYY-MM-DD | 2021-05-12
-area_kmq | ⚠️ da rimuovere | tbd | tbd
-pop_2020 | ⚠️ da rimuovere | tbd | tbd
+area_kmq | ⚠️ rimuoverei il campo (solo su GitHub) | tbd | tbd
+pop_2020 | ⚠️ rimuoverei il campo (solo su GitHub) | tbd | tbd
 note | tbd | tbd | tbd
 zona | Tipologia di restrizioni applicate | Testo | rossa
 
