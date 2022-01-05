@@ -14,9 +14,9 @@ jobs:
       - name: Git checkout
         uses: actions/checkout@v2
         
-      - name: Installing csvkit
+      - name: Installing miller
         run: |-
-          pip install csvkit
+          apt-get install miller
         
       - name: Update CSV data
         run: |
@@ -25,7 +25,7 @@ jobs:
 
       - name: Build JSON
         run: |
-          csvjson -I data.csv > data.json
+          mlr --icsv --ojson --jlistwrap cat data.csv > data.json
           echo "JSON creato!"
 
       - name: Update Repository
