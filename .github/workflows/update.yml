@@ -18,9 +18,12 @@ jobs:
         run: |-
           sudo apt-get install miller
         
-      - name: Update CSV data
+      - name: Download and update CSV data
         run: |
-          curl -kL "https://docs.google.com/spreadsheets/d/e/2PACX-1vSA38rXb3R9B0lYUtHvgvr9aWcxwiYAxksTTAg-jIbe1qjGh2bGANgUlUnuynG-UL6U2iLY7rgPvuOH/pub?gid=1759652035&single=true&output=csv" > data.csv
+          curl -kL "https://docs.google.com/spreadsheets/d/e/2PACX-1vSA38rXb3R9B0lYUtHvgvr9aWcxwiYAxksTTAg-jIbe1qjGh2bGANgUlUnuynG-UL6U2iLY7rgPvuOH/pub?gid=1759652035&single=true&output=csv" > download.csv
+          mlr --csv cut -x -f provincia,proroga/cessa,sovrapposizione,cessa,area_kmq,pop_2020 then \
+          cut -o -f pro_com,comune,data_inizio,data_fine,link_ordinanza,nro_data_ordinanza,nro_ordinanza,data_ordinanza,PDF,nro_pgg,note,zona download.csv > data.csv
+          rm download.csv
           echo "Dati aggiornati!"
 
       - name: Build JSON
