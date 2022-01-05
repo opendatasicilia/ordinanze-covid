@@ -23,11 +23,11 @@ data_inizio | Data di inizio delle restrizioni | YYYY-MM-DD | 2021-05-12
 data_fine | Data di fine delle restrizioni | YYYY-MM-DD | 2021-05-12
 link_ordinanza | URL ordinanza della Presidenza della Regione Siciliana | Testo | https://www.google.it
 nro_data_ordinanza | ⚠️ rinominerei in 'id_ordinanza' | tbd | tbd
-proroga/cessa | ⚠️ rimuoverei il campo. È essenziale da pubblicare?| tbd | tbd
+proroga/cessa | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
 PDF | Accessibilità dei file PDF | Testo | Immagine
 nro_pgg | Numero di pagine dell'ordinanza | Numero | 6
-sovrapposizione | ⚠️ rimuoverei il campo. È essenziale da pubblicare?| tbd | tbd
-cessa | ⚠️ rimuoverei il campo. È essenziale da pubblicare?| tbd | tbd
+sovrapposizione | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
+cessa | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
 nro_ordinanza | Numero dell'ordinanza della Presidenza della Regione Siciliana | Numero | 1
 data_ordinanza | Data dell'ordinanza della Presidenza della Regione Siciliana | YYYY-MM-DD | 2021-05-12
 area_kmq | ⚠️ da rimuovere | tbd | tbd
