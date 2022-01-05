@@ -20,7 +20,6 @@ Campo | Descrizione | Formato | Esempio
 -- | -- | -- | --
 pro_com | Codice ISTAT numerico del Comune | Numero | 87015
 comune | Denominazione del Comune | Testo | Catania
-provincia | Denominazione Provincia | Testo | Catania
 zona | Tipologia di restrizioni applicate | Testo | rossa
 data_inizio | Data di inizio delle restrizioni | YYYY-MM-DD | 2021-05-12
 data_fine | Data di fine delle restrizioni | YYYY-MM-DD | 2021-05-12
@@ -31,6 +30,7 @@ PDF | Accessibilità dei file PDF | Testo | Immagine
 nro_pgg | Numero di pagine dell'ordinanza | Numero | 6
 link_ordinanza | URL ordinanza della Presidenza della Regione Siciliana | Testo | https://www.google.it
 note | tbd | tbd | tbd
+provincia | ⚠️ rimuoverei il campo (solo su GitHub) |  | 
 proroga/cessa | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
 sovrapposizione | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
 cessa | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
