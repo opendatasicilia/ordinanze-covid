@@ -16,7 +16,7 @@ jobs:
         
       - name: Installing miller
         run: |-
-          apt-get install miller
+          sudo apt-get install miller
         
       - name: Update CSV data
         run: |
