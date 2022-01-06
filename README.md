@@ -1,9 +1,9 @@
 # Ordinanze COVID Regione Siciliana
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) <a href="https://www.datibenecomune.it/"><img src="https://img.shields.io/badge/%F0%9F%99%8F-%23datiBeneComune-%23cc3232"/></a> 
 
-A partire dal 21 dicembre 2020, la Presidenza della Regione Siciliana emette **ordinanze** in **PDF** (_Ulteriori misure per l'emergenza epidemiologica da Covid-19_) con le quali vengono imposte restrizioni ai **comuni siciliani** e istituite le `zone` `rosse`, `arancioni`, `gialle` al fine di fronteggiare la pandemia. Tali file, spesso frutto di scansione, sono raccolti nel [sito ufficiale](https://www.regione.sicilia.it/) nella sezione "[Servizi informativi](https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive?f%5B0%5D=category%3A26)”.
+A partire dal 21 dicembre 2020, la Presidenza della Regione Siciliana emette **ordinanze** in **PDF** (_Ulteriori misure per l'emergenza epidemiologica da Covid-19_) con le quali vengono imposte restrizioni ai **comuni siciliani** e istituite le `zone` `rosse`, `arancioni`, `gialle` al fine di fronteggiare la pandemia.
 
-I PDF non si prestano né ad **analisi** né ad una facile lettura (soprattutto se sono immagini); abbiamo pensato di raccogliere tutte le ordinanze in un [foglio elettronico](https://docs.google.com/spreadsheets/d/14f2AUf3k3jP60sPkUhzqhSIFlTEuUFCfac9b-1_29jc/edit#gid=1669181736) (che alimenta i dati di questo repository) e rilasciare queste informazioni in **formato open**.
+Tali file, spesso frutto di scansione, sono raccolti nel [sito ufficiale](https://www.regione.sicilia.it/) nella sezione "[Servizi informativi](https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive?f%5B0%5D=category%3A26)” e non si prestano né ad **analisi** né ad una facile lettura (soprattutto se sono immagini); abbiamo pensato di raccogliere tutte le ordinanze in un [foglio elettronico](https://docs.google.com/spreadsheets/d/14f2AUf3k3jP60sPkUhzqhSIFlTEuUFCfac9b-1_29jc/edit#gid=1669181736) (che alimenta i dati di questo repository) e rilasciare queste informazioni in **formato open**.
 
 Dati estratti da [Totò Fiandaca](https://twitter.com/totofiandaca)
 
