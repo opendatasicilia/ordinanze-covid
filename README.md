@@ -15,10 +15,11 @@ Comuni siciliani in Zona Rossa, Arancione, Gialla
 - File: `data.csv`
 - Encoding: `UTF-8`
 - Separatore di campo: `,`
+- Schema dati: `schema.yaml`
 
 Campo | Descrizione | Formato | Esempio
 -- | -- | -- | --
-pro_com | Codice ISTAT numerico del Comune | Numero | 87015
+pro_com | Codice numerico del Comune ISTAT (2021) | Numero | 87015
 comune | Denominazione del Comune | Testo | Catania
 zona | Tipologia di restrizioni applicate | Testo | rossa
 data_inizio | Data di inizio delle restrizioni | YYYY-MM-DD | 2021-05-12
@@ -30,12 +31,6 @@ PDF | Accessibilità dei file PDF | Testo | Immagine
 nro_pgg | Numero di pagine dell'ordinanza | Numero | 6
 link_ordinanza | URL ordinanza della Presidenza della Regione Siciliana | Testo | https://www.google.it
 note | Eventuali annotazioni | Testo | Lorem ipsum
-provincia | ⚠️ rimuoverei il campo (solo su GitHub) |  | 
-proroga/cessa | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
-sovrapposizione | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
-cessa | ⚠️ rimuoverei il campo (solo su GitHub). È essenziale da pubblicare?| tbd | tbd
-area_kmq | ⚠️ rimuoverei il campo (solo su GitHub) | tbd | tbd
-pop_2020 | ⚠️ rimuoverei il campo (solo su GitHub) | tbd | tbd
 
 Note: <br>
 - tbd: _to be determined_
