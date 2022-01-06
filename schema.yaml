@@ -16,7 +16,7 @@ fields:
     description: Data di fine delle restrizioni
   - name: id_ordinanza
     type: string
-    description: Codice identificativo dell'ordinanza. Indica il numero e la data dell'ordinanza nel formato DDMMYYYY
+    description: Codice identificativo dell'ordinanza della Presidenza della Regione Siciliana. Indica il numero e la data dell'ordinanza nel formato DDMMYYYY
   - name: nro_ordinanza
     type: integer
     description: Numero dell'ordinanza della Presidenza della Regione Siciliana
