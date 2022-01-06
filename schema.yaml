@@ -1,23 +1,29 @@
 fields:
   - name: pro_com
+    title: codice comune
     type: integer
-    description: Codice numerico del Comune ISTAT (2021)
+    description: Codice numerico del Comune (ISTAT 2021)
   - name: comune
+    title: denominazione comune
     type: string
     description: Denominazione del Comune
   - name: zona
     type: string
     description: Tipologia di restrizioni applicate
   - name: data_inizio
+    title: data inizio restrizioni
     type: date
     description: Data di inizio delle restrizioni
   - name: data_fine
+    title: data fine restrizioni
     type: date
     description: Data di fine delle restrizioni
   - name: id_ordinanza
+    title: codice identificativo ordinanza
     type: string
     description: Codice identificativo dell'ordinanza della Presidenza della Regione Siciliana. Indica il numero e la data dell'ordinanza nel formato DDMMYYYY
   - name: nro_ordinanza
+    title: numero ordinanza
     type: integer
     description: Numero dell'ordinanza della Presidenza della Regione Siciliana
   - name: data_ordinanza
@@ -27,6 +33,7 @@ fields:
     type: string
     description: Accessibilità dei file PDF
   - name: nro_pgg
+    title: numero pagine
     type: integer
     description: Numero di pagine dell'ordinanza
   - name: link_ordinanza
