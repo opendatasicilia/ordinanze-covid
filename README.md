@@ -53,9 +53,9 @@ _Screenshot al 2022-01-04_
 
 Data | Testata e Articolo
 -- | -- 
-2021-04-13 | [PalermoToday](https://www.palermotoday.it/cronaca/coronavirus-bollettino-contagi-palermo-sicilia-13-aprile-2021.html){:target="_blank"}
-2021-04-14 | [FocuSicilia ](https://focusicilia.it/caos-covid-mancano-gli-open-data-chiesti-da-un-anno-nessuna-risposta/){:target="_blank"}
-2021-04-15 | [24live di Barcellona P.G.](https://24live.it/2021/04/15/la-mappa-dei-comuni-siciliani-in-zona-rossa-aggiornata-con-opendatasicilia/){:target="_blank"}
+2021-04-13 | [PalermoToday](https://www.palermotoday.it/cronaca/coronavirus-bollettino-contagi-palermo-sicilia-13-aprile-2021.html)
+2021-04-14 | [FocuSicilia ](https://focusicilia.it/caos-covid-mancano-gli-open-data-chiesti-da-un-anno-nessuna-risposta/)
+2021-04-15 | [24live di Barcellona P.G.](https://24live.it/2021/04/15/la-mappa-dei-comuni-siciliani-in-zona-rossa-aggiornata-con-opendatasicilia/)
 
 ## Licenza
 <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CC-BY_icon.svg/640px-CC-BY_icon.svg.png" width="150"/></a>
