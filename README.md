@@ -12,10 +12,10 @@ Dati estratti da [Totò Fiandaca](https://twitter.com/totofiandaca)
 Comuni siciliani in Zona Rossa, Arancione, Gialla
 
 - Directory: `root`
-- File: `data.csv`
+- File: [`data.csv`](https://github.com/opendatasicilia/ordinanze-covid/blob/main/data.csv)
 - Encoding: `UTF-8`
 - Separatore di campo: `,`
-- Schema dati: `schema.yaml`
+- Schema dati: [`schema.yaml`](https://github.com/opendatasicilia/ordinanze-covid/blob/main/schema.yaml)
 
 Campo | Descrizione | Formato | Esempio
 -- | -- | -- | --
