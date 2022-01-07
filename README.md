@@ -15,7 +15,7 @@ Comuni siciliani in Zona Rossa, Arancione, Gialla
 - File: [`data.csv`](https://github.com/opendatasicilia/ordinanze-covid/blob/main/data.csv)
 - Encoding: `UTF-8`
 - Separatore di campo: `,`
-- Schema dati: [`datapackage.yaml`](https://github.com/opendatasicilia/ordinanze-covid/blob/main/datapackage.yaml)
+- metadati: [`datapackage.yaml`](https://github.com/opendatasicilia/ordinanze-covid/blob/main/datapackage.yaml)
 
 Campo | Descrizione | Formato | Esempio
 -- | -- | -- | --
