@@ -1,5 +1,5 @@
 # Ordinanze COVID Regione Siciliana
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) <a href="https://www.datibenecomune.it/"><img src="https://img.shields.io/badge/%F0%9F%99%8F-%23datiBeneComune-%23cc3232"/></a> [![Frictionless](https://github.com/opendatasicilia/ordinanze-covid/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/report?user=opendatasicilia&repo=ordinanze-covid&flow=frictionless)
+[![Frictionless](https://github.com/opendatasicilia/ordinanze-covid/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/report?user=opendatasicilia&repo=ordinanze-covid&flow=frictionless) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) <a href="https://www.datibenecomune.it/"><img src="https://img.shields.io/badge/%F0%9F%99%8F-%23datiBeneComune-%23cc3232"/></a> 
 
 A partire dal 21 dicembre 2020, la Presidenza della Regione Siciliana emette **ordinanze** in **PDF** (_Ulteriori misure per l'emergenza epidemiologica da Covid-19_) con le quali vengono imposte restrizioni ai **comuni siciliani** e istituite le `zone` `rosse`, `arancioni`, `gialle` al fine di fronteggiare la pandemia.
 
