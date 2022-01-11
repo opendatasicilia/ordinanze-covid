@@ -1,6 +1,6 @@
 pro_com,comune,zona,data_inizio,data_fine,id_ordinanza,nro_ordinanza,data_ordinanza,PDF,nro_pgg,link_ordinanza,note
 83008,Capizzi,rossa,2021-01-03,2021-01-13,01-03012021,1,2021-01-03,Testo,6,https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%201-2021.pdf,
-85010,Milena,rossa,2020-12-23,2021-01-04,65-21122020,65,2020-12-21,Testo,5,https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-65-21122020.pdf,
+85010,Milena,rossa,2020-12-23,2021-01-04,65-21122020,65,2020-12-21,Testo,5,https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-65-21122020.pdf,Ultima ordinanza del 2020 con data fine nel 2021
 85010,Milena,rossa,2021-01-04,2021-01-17,02-04012021,2,2021-01-04,Immagine,6,https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/ordinanza-2-04012021.pdf,
 83078,San Fratello,rossa,2021-01-07,2021-01-21,03-05012021,3,2021-01-05,Immagine,6,https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/ordinanza-3-05012021.pdf,
 83048,Messina,rossa,2021-01-11,2021-01-31,07-09012021,7,2021-01-09,Testo,7,https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%207%20del%209%20gennaio%202021.pdf,
