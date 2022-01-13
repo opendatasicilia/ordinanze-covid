@@ -6145,4 +6145,60 @@
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
   "note": ""
 }
+,{
+  "pro_com": 89003,
+  "comune": "Buccheri",
+  "zona": "arancione",
+  "data_inizio": "2022-01-14",
+  "data_fine": "2022-01-26",
+  "id_ordinanza": "02-12012022",
+  "nro_ordinanza": 2,
+  "data_ordinanza": "2022-01-12",
+  "PDF": "Testo",
+  "nro_pgg": 5,
+  "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%202%20del%2012%20gennaio%202022.pdf",
+  "note": ""
+}
+,{
+  "pro_com": 89004,
+  "comune": "Buscemi",
+  "zona": "arancione",
+  "data_inizio": "2022-01-14",
+  "data_fine": "2022-01-26",
+  "id_ordinanza": "02-12012022",
+  "nro_ordinanza": 2,
+  "data_ordinanza": "2022-01-12",
+  "PDF": "Testo",
+  "nro_pgg": 5,
+  "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%202%20del%2012%20gennaio%202022.pdf",
+  "note": ""
+}
+,{
+  "pro_com": 89008,
+  "comune": "Ferla",
+  "zona": "arancione",
+  "data_inizio": "2022-01-14",
+  "data_fine": "2022-01-26",
+  "id_ordinanza": "02-12012022",
+  "nro_ordinanza": 2,
+  "data_ordinanza": "2022-01-12",
+  "PDF": "Testo",
+  "nro_pgg": 5,
+  "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%202%20del%2012%20gennaio%202022.pdf",
+  "note": ""
+}
+,{
+  "pro_com": 84033,
+  "comune": "Ribera",
+  "zona": "arancione",
+  "data_inizio": "2022-01-12",
+  "data_fine": "2022-01-19",
+  "id_ordinanza": "02-12012022",
+  "nro_ordinanza": 2,
+  "data_ordinanza": "2022-01-12",
+  "PDF": "Testo",
+  "nro_pgg": 5,
+  "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%202%20del%2012%20gennaio%202022.pdf",
+  "note": ""
+}
 ]
