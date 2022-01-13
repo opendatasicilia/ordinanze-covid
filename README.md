@@ -33,7 +33,7 @@ link_ordinanza | URL ordinanza della Presidenza della Regione Siciliana | Testo 
 note | Eventuali annotazioni | Testo | Lorem ipsum
 
 Note <br>
-- L'aggiornamento dei dati è gestito da [questa action](https://github.com/opendatasicilia/ordinanze-covid/blob/main/.github/workflows/update.yml) che viene eseguita automaticamente una volta a settimana (sabato); tuttavia è possibile "forzare" l'aggiornamento molto semplicemente ogni volta che si aggiorna lo sheet. Basta fare click su `Actions` > `Update data` > `Run workflow` > `Run workflow`
+- L'aggiornamento dei dati è gestito da [questa action](https://github.com/opendatasicilia/ordinanze-covid/blob/main/.github/workflows/update.yml) che viene eseguita automaticamente due volte a settimana (martedì e venerdì); tuttavia è possibile "forzare" l'aggiornamento molto semplicemente ogni volta che si aggiorna lo sheet. Basta fare click su `Actions` > `Update data` > `Run workflow` > `Run workflow`
 
 ## Link utili
 - [Blogpost (IT)](https://opendatasicilia.it/2021/04/10/covid-19-e-i-comuni-siciliani-in-zona-rossa-anno-2021/) di [Totò Fiandaca](https://twitter.com/totofiandaca)
