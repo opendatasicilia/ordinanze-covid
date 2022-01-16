@@ -13,20 +13,34 @@ jobs:
       
       - name: Git checkout
         uses: actions/checkout@v2
+
+      - name: Check CSV hash
+        id: get-hash
+        run:
+          echo "::set-output name=remote::$(curl -skL "https://docs.google.com/spreadsheets/d/e/2PACX-1vSA38rXb3R9B0lYUtHvgvr9aWcxwiYAxksTTAg-jIbe1qjGh2bGANgUlUnuynG-UL6U2iLY7rgPvuOH/pub?gid=1759652035&single=true&output=csv" > download.csv | sha1sum download.csv | cut -f 1 -d " ")"
+        shell: bash
+
+      - uses: actions/cache@v2
+        id: cache
+        with:
+          path: ~/.cache
+          key: ${{ runner.os }}-${{ steps.get-hash.outputs.remote }}
         
       - name: Installing miller
+        if: steps.cache.outputs.cache-hit != 'true'
         run: |-
           sudo apt-get install miller
         
       - name: Download and update CSV data
+        if: steps.cache.outputs.cache-hit != 'true'
         run: |
-          curl -kL "https://docs.google.com/spreadsheets/d/e/2PACX-1vSA38rXb3R9B0lYUtHvgvr9aWcxwiYAxksTTAg-jIbe1qjGh2bGANgUlUnuynG-UL6U2iLY7rgPvuOH/pub?gid=1759652035&single=true&output=csv" > download.csv
           mlr --csv cut -x -f provincia,proroga/cessa,sovrapposizione,cessa,area_kmq,pop_2020 then \
           cut -o -f pro_com,comune,zona,data_inizio,data_fine,id_ordinanza,nro_ordinanza,data_ordinanza,PDF,nro_pgg,link_ordinanza,note download.csv > data.csv
           rm download.csv
           echo "Dati aggiornati!"
 
       - name: Build JSON
+        if: steps.cache.outputs.cache-hit != 'true'
         run: |
           mlr --icsv --ojson --jlistwrap --jvstack cat data.csv > data.json
           echo "JSON creato!"
