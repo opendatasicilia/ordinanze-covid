@@ -36,8 +36,11 @@ jobs:
         run: |
           mlr --csv cut -x -f provincia,proroga/cessa,sovrapposizione,cessa,area_kmq,pop_2020 then \
           cut -o -f pro_com,comune,zona,data_inizio,data_fine,id_ordinanza,nro_ordinanza,data_ordinanza,PDF,nro_pgg,link_ordinanza,note download.csv > data.csv
-          rm download.csv
           echo "Dati aggiornati!"
+          
+      - name: Remove temp files
+        run:
+          rm download.csv
 
       - name: Build JSON
         if: steps.cache.outputs.cache-hit != 'true'
