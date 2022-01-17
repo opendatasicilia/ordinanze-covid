@@ -41,6 +41,7 @@ Note <br>
 - [Google Sheet](https://docs.google.com/spreadsheets/d/14f2AUf3k3jP60sPkUhzqhSIFlTEuUFCfac9b-1_29jc/edit#gid=1669181736) di [Totò Fiandaca](https://twitter.com/totofiandaca)
 
 ## Elaborazioni
+Dati aperti di questo tipo consentono la realizzazione di svariate elaborazioni:
 - [Mappa](https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/elaborazioni/ods/) di [Giovan Battista Vitrano](https://twitter.com/gbvitrano)
 - [Dashboard](https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/vaccini/sit_vaccini_zone/) di [Giovan Battista Vitrano](https://twitter.com/gbvitrano)
 - [Timeline](https://gabacode.github.io/zone-rosse-timeline/) di [Gabriele Scalici](https://twitter.com/GabArcangelo)
