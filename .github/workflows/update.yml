@@ -17,7 +17,7 @@ jobs:
       - name: Check CSV hash
         id: get-hash
         run:
-          echo "::set-output name=remote::$(curl -skL "https://docs.google.com/spreadsheets/d/e/2PACX-1vSA38rXb3R9B0lYUtHvgvr9aWcxwiYAxksTTAg-jIbe1qjGh2bGANgUlUnuynG-UL6U2iLY7rgPvuOH/pub?gid=1759652035&single=true&output=csv" > download.csv | sha1sum download.csv | cut -f 1 -d " ")"
+          echo "::set-output name=remote::$(curl -skL "https://docs.google.com/spreadsheets/d/e/2PACX-1vSA38rXb3R9B0lYUtHvgvr9aWcxwiYAxksTTAg-jIbe1qjGh2bGANgUlUnuynG-UL6U2iLY7rgPvuOH/pub?gid=1759652035&single=true&output=csv" > download.csv && sha1sum download.csv | cut -f 1 -d " ")"
         shell: bash
 
       - uses: actions/cache@v2
