@@ -8049,4 +8049,18 @@
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%206%20del%2019%20gennaio%202022.pdf",
   "note": ""
 }
+,{
+  "pro_com": 84027,
+  "comune": "Palma di Montechiaro",
+  "zona": "arancione",
+  "data_inizio": "2022-01-19",
+  "data_fine": "2022-01-26",
+  "id_ordinanza": "07-20012022",
+  "nro_ordinanza": 7,
+  "data_ordinanza": "2022-01-20",
+  "PDF": "Immagine",
+  "nro_pgg": 5,
+  "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/ordinanza%20n.7.pdf",
+  "note": ""
+}
 ]
