@@ -7,6 +7,8 @@ Tali file, spesso frutto di scansione, sono raccolti nel [sito ufficiale](https:
 
 Dati estratti da [Totò Fiandaca](https://twitter.com/totofiandaca)
 
+⚠️ Se vuoi rimanere aggiornato, iscriviti al [feed RSS del ChangeLog](https://github.com/opendatasicilia/ordinanze-covid/commits/main/CHANGELOG.md.atom)
+
 ## Schema dati
 
 Comuni siciliani in Zona Rossa, Arancione, Gialla
