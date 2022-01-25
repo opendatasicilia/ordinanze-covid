@@ -11,7 +11,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%201-2021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 08-11012021"
 }
 ,{
   "pro_com": 85010,
@@ -25,7 +25,7 @@
   "PDF": "Testo",
   "nro_pgg": 5,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-65-21122020.pdf",
-  "note": "Ultima ordinanza del 2020 con data fine nel 2021"
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 02-04012021"
 }
 ,{
   "pro_com": 85010,
@@ -130,7 +130,7 @@
   "comune": "Capizzi",
   "zona": "rossa",
   "data_inizio": "2021-01-13",
-  "data_fine": "2021-01-31",
+  "data_fine": "2021-01-25",
   "id_ordinanza": "08-11012021",
   "nro_ordinanza": 8,
   "data_ordinanza": "2021-01-11",
@@ -219,7 +219,7 @@
   "nro_ordinanza": 18,
   "data_ordinanza": "2021-03-04",
   "PDF": "Immagine",
-  "nro_pgg": 14,
+  "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/ordinanza-18-04032021.pdf",
   "note": "Ordinanza n.18 e ordinanza n.19 del 2021-03-04"
 }
@@ -291,7 +291,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2020%20del%2010%20marzo%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 26-26032021"
 }
 ,{
   "pro_com": 85004,
@@ -305,7 +305,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-21-15032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 27-29032021"
 }
 ,{
   "pro_com": 82015,
@@ -319,7 +319,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-21-15032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 26-26032021"
 }
 ,{
   "pro_com": 88011,
@@ -333,7 +333,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-21-15032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 28-30032021"
 }
 ,{
   "pro_com": 84027,
@@ -347,7 +347,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-21-15032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 28-30032021"
 }
 ,{
   "pro_com": 86016,
@@ -361,7 +361,7 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-22-16032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 28-30032021"
 }
 ,{
   "pro_com": 84041,
@@ -445,7 +445,7 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2025%20del%2024%20marzo%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 35-06042021"
 }
 ,{
   "pro_com": 86007,
@@ -459,7 +459,7 @@
   "PDF": "Testo",
   "nro_pgg": 8,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-26-26032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 35-06042021"
 }
 ,{
   "pro_com": 84016,
@@ -515,7 +515,7 @@
   "PDF": "Testo",
   "nro_pgg": 8,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-26-26032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 33-06042021"
 }
 ,{
   "pro_com": 82065,
@@ -543,7 +543,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/ordinanza-27-29032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 41-14042021"
 }
 ,{
   "pro_com": 83025,
@@ -557,7 +557,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/ordinanza-27-29032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 41-14042021"
 }
 ,{
   "pro_com": 83029,
@@ -599,7 +599,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/ordinanza-27-29032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 33-06042021"
 }
 ,{
   "pro_com": 84028,
@@ -627,7 +627,7 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-28-30032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza si sovrapporrà all'ordinanza 38-09042021"
 }
 ,{
   "pro_com": 84027,
@@ -641,7 +641,7 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-28-30032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 33-06042021"
 }
 ,{
   "pro_com": 86016,
@@ -655,7 +655,7 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-28-30032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 35-06042021"
 }
 ,{
   "pro_com": 88011,
@@ -669,7 +669,7 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-28-30032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 33-06042021"
 }
 ,{
   "pro_com": 82013,
@@ -683,7 +683,7 @@
   "PDF": "Immagine",
   "nro_pgg": 8,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-29-31032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza si sovrapporrà all'ordinanza 38-09042021"
 }
 ,{
   "pro_com": 82030,
@@ -697,7 +697,7 @@
   "PDF": "Immagine",
   "nro_pgg": 8,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-29-31032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza si sovrapporrà all'ordinanza 38-09042021"
 }
 ,{
   "pro_com": 84020,
@@ -711,7 +711,7 @@
   "PDF": "Immagine",
   "nro_pgg": 8,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-29-31032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 41-14042021"
 }
 ,{
   "pro_com": 82047,
@@ -725,7 +725,7 @@
   "PDF": "Immagine",
   "nro_pgg": 8,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-29-31032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza si sovrapporrà all'ordinanza 38-09042021"
 }
 ,{
   "pro_com": 82054,
@@ -739,21 +739,21 @@
   "PDF": "Immagine",
   "nro_pgg": 8,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-29-31032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza si sovrapporrà all'ordinanza 38-09042021"
 }
 ,{
   "pro_com": 89021,
   "comune": "Priolo Gargallo",
   "zona": "rossa",
   "data_inizio": "2021-04-02",
-  "data_fine": "2021-04-08",
+  "data_fine": "2021-04-14",
   "id_ordinanza": "29-31032021",
   "nro_ordinanza": 29,
   "data_ordinanza": "2021-03-31",
   "PDF": "Immagine",
   "nro_pgg": 8,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-29-31032021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente revocata dall'ordinanza 37-09042021"
 }
 ,{
   "pro_com": 85009,
@@ -767,7 +767,7 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-30-01042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 41-14042021"
 }
 ,{
   "pro_com": 84024,
@@ -795,7 +795,7 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-31-02042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 41-14042021"
 }
 ,{
   "pro_com": 85019,
@@ -816,14 +816,14 @@
   "comune": "Buscemi",
   "zona": "rossa",
   "data_inizio": "2021-04-04",
-  "data_fine": "2021-04-08",
+  "data_fine": "2021-04-14",
   "id_ordinanza": "32-03042021",
   "nro_ordinanza": 32,
   "data_ordinanza": "2021-04-03",
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-32-03042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente revocata dall'ordinanza 37-09042021"
 }
 ,{
   "pro_com": 83053,
@@ -851,7 +851,7 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-32-03042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 40-13042021"
 }
 ,{
   "pro_com": 89018,
@@ -865,7 +865,7 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-32-03042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 40-13042021"
 }
 ,{
   "pro_com": 85004,
@@ -879,7 +879,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/re295.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 41-14042021"
 }
 ,{
   "pro_com": 82015,
@@ -893,7 +893,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/re295.pdf",
-  "note": ""
+  "note": "La presente ordinanza si sovrapporrà all'ordinanza 38-09042021"
 }
 ,{
   "pro_com": 84027,
@@ -927,7 +927,7 @@
   "pro_com": 82053,
   "comune": "Palermo",
   "zona": "rossa",
-  "data_inizio": "2021-04-06",
+  "data_inizio": "2021-04-07",
   "data_fine": "2021-04-14",
   "id_ordinanza": "34-06042021",
   "nro_ordinanza": 34,
@@ -935,7 +935,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/re294.pdf",
-  "note": ""
+  "note": "La presente ordinanza si sovrapporrà all'ordinanza 38-09042021"
 }
 ,{
   "pro_com": 85001,
@@ -949,7 +949,7 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2035%20del%2006-04-2021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 84002,
@@ -1005,7 +1005,21 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2035%20del%2006-04-2021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
+}
+,{
+  "pro_com": 85008,
+  "comune": "Marianopoli",
+  "zona": "rossa",
+  "data_inizio": "2021-04-08",
+  "data_fine": "2021-04-22",
+  "id_ordinanza": "35-06042021",
+  "nro_ordinanza": 35,
+  "data_ordinanza": "2021-04-06",
+  "PDF": "Testo",
+  "nro_pgg": 7,
+  "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2035%20del%2006-04-2021(firmato).pdf",
+  "note": "La presente ordinanza è stata successivamente revocata dall'ordinanza 36-07042021"
 }
 ,{
   "pro_com": 88001,
@@ -1033,7 +1047,7 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2035%20del%2006-04-2021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 41-14042021"
 }
 ,{
   "pro_com": 86016,
@@ -1047,7 +1061,7 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2035%20del%2006-04-2021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 41-14042021"
 }
 ,{
   "pro_com": 82040,
@@ -1061,7 +1075,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2036%20del%2007-04-2021.pdf",
-  "note": ""
+  "note": "La presente ordinanza si sovrapporrà all'ordinanza 38-09042021"
 }
 ,{
   "pro_com": 88010,
@@ -1083,6 +1097,20 @@
   "zona": "rossa",
   "data_inizio": "2021-04-09",
   "data_fine": "2021-04-22",
+  "id_ordinanza": "36-07042021",
+  "nro_ordinanza": 36,
+  "data_ordinanza": "2021-04-07",
+  "PDF": "Immagine",
+  "nro_pgg": 7,
+  "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2036%20del%2007-04-2021.pdf",
+  "note": ""
+}
+,{
+  "pro_com": 85008,
+  "comune": "Marianopoli",
+  "zona": "rossa",
+  "data_inizio": "2021-04-09",
+  "data_fine": "2021-04-09",
   "id_ordinanza": "36-07042021",
   "nro_ordinanza": 36,
   "data_ordinanza": "2021-04-07",
@@ -1123,8 +1151,8 @@
   "pro_com": 89021,
   "comune": "Priolo Gargallo",
   "zona": "rossa",
-  "data_inizio": "2021-04-02",
-  "data_fine": "2021-04-08",
+  "data_inizio": "2021-04-09",
+  "data_fine": "2021-04-09",
   "id_ordinanza": "37-09042021",
   "nro_ordinanza": 37,
   "data_ordinanza": "2021-04-09",
@@ -1137,8 +1165,8 @@
   "pro_com": 89004,
   "comune": "Buscemi",
   "zona": "rossa",
-  "data_inizio": "2021-04-04",
-  "data_fine": "2021-04-08",
+  "data_inizio": "2021-04-09",
+  "data_fine": "2021-04-09",
   "id_ordinanza": "37-09042021",
   "nro_ordinanza": 37,
   "data_ordinanza": "2021-04-09",
@@ -1201,7 +1229,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82027,
@@ -1271,7 +1299,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82033,
@@ -1313,7 +1341,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82065,
@@ -1341,7 +1369,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82022,
@@ -1361,7 +1389,7 @@
   "pro_com": 82015,
   "comune": "Caltavuturo",
   "zona": "rossa",
-  "data_inizio": "2021-04-11",
+  "data_inizio": "2021-04-14",
   "data_fine": "2021-04-22",
   "id_ordinanza": "38-09042021",
   "nro_ordinanza": 38,
@@ -1467,7 +1495,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82038,
@@ -1481,7 +1509,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82049,
@@ -1495,7 +1523,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82023,
@@ -1509,7 +1537,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82037,
@@ -1529,7 +1557,7 @@
   "pro_com": 82047,
   "comune": "Mezzojuso",
   "zona": "rossa",
-  "data_inizio": "2021-04-11",
+  "data_inizio": "2021-04-14",
   "data_fine": "2021-04-22",
   "id_ordinanza": "38-09042021",
   "nro_ordinanza": 38,
@@ -1537,13 +1565,13 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82030,
   "comune": "Ciminna",
   "zona": "rossa",
-  "data_inizio": "2021-04-11",
+  "data_inizio": "2021-04-14",
   "data_fine": "2021-04-22",
   "id_ordinanza": "38-09042021",
   "nro_ordinanza": 38,
@@ -1585,7 +1613,7 @@
   "pro_com": 82013,
   "comune": "Borgetto",
   "zona": "rossa",
-  "data_inizio": "2021-04-11",
+  "data_inizio": "2021-04-14",
   "data_fine": "2021-04-22",
   "id_ordinanza": "38-09042021",
   "nro_ordinanza": 38,
@@ -1593,7 +1621,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82012,
@@ -1635,7 +1663,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82026,
@@ -1733,7 +1761,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82074,
@@ -1803,7 +1831,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82067,
@@ -1859,7 +1887,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82006,
@@ -1873,7 +1901,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82056,
@@ -1971,7 +1999,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82051,
@@ -2013,7 +2041,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82001,
@@ -2033,7 +2061,7 @@
   "pro_com": 82040,
   "comune": "Godrano",
   "zona": "rossa",
-  "data_inizio": "2021-04-11",
+  "data_inizio": "2021-04-22",
   "data_fine": "2021-04-22",
   "id_ordinanza": "38-09042021",
   "nro_ordinanza": 38,
@@ -2055,7 +2083,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82008,
@@ -2069,7 +2097,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82076,
@@ -2117,7 +2145,7 @@
   "pro_com": 82077,
   "comune": "Ventimiglia di Sicilia",
   "zona": "rossa",
-  "data_inizio": "2021-04-11",
+  "data_inizio": "2021-04-14",
   "data_fine": "2021-04-22",
   "id_ordinanza": "38-09042021",
   "nro_ordinanza": 38,
@@ -2139,7 +2167,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82020,
@@ -2187,7 +2215,7 @@
   "pro_com": 82054,
   "comune": "Partinico",
   "zona": "rossa",
-  "data_inizio": "2021-04-11",
+  "data_inizio": "2021-04-14",
   "data_fine": "2021-04-22",
   "id_ordinanza": "38-09042021",
   "nro_ordinanza": 38,
@@ -2195,7 +2223,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82070,
@@ -2209,7 +2237,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82052,
@@ -2229,7 +2257,7 @@
   "pro_com": 82053,
   "comune": "Palermo",
   "zona": "rossa",
-  "data_inizio": "2021-04-11",
+  "data_inizio": "2021-04-14",
   "data_fine": "2021-04-22",
   "id_ordinanza": "38-09042021",
   "nro_ordinanza": 38,
@@ -2237,7 +2265,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2038%20del%209%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 82058,
@@ -2405,7 +2433,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-41-14042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 86008,
@@ -2419,7 +2447,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-41-14042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 85012,
@@ -2433,7 +2461,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-41-14042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 87046,
@@ -2461,7 +2489,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-41-14042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 85004,
@@ -2489,7 +2517,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-41-14042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 83025,
@@ -2517,7 +2545,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-41-14042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 85009,
@@ -2545,7 +2573,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-41-14042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 46-22042021"
 }
 ,{
   "pro_com": 86016,
@@ -2601,7 +2629,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/ordinanza-42-15042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 85008,
@@ -2615,7 +2643,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/ordinanza-42-15042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 84027,
@@ -2657,7 +2685,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/ordinanza-43-16042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 87006,
@@ -2671,7 +2699,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/ordinanza-43-16042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 83032,
@@ -2741,7 +2769,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/ordinanza-45-19042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 50-30042021"
 }
 ,{
   "pro_com": 84024,
@@ -2825,7 +2853,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 82009,
@@ -2839,7 +2867,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 87008,
@@ -2867,7 +2895,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 82021,
@@ -2937,7 +2965,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 82038,
@@ -2951,7 +2979,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 82039,
@@ -2979,7 +3007,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 82044,
@@ -2993,7 +3021,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 82047,
@@ -3007,7 +3035,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 82048,
@@ -3021,7 +3049,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 82049,
@@ -3035,7 +3063,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 82054,
@@ -3049,7 +3077,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 82057,
@@ -3119,7 +3147,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 82072,
@@ -3147,7 +3175,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 82080,
@@ -3161,7 +3189,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 49-28042021"
 }
 ,{
   "pro_com": 83021,
@@ -3175,7 +3203,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 52-05052021"
 }
 ,{
   "pro_com": 85007,
@@ -3189,7 +3217,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2046%20del%2022%20aprile%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 52-05052021"
 }
 ,{
   "pro_com": 87038,
@@ -3245,7 +3273,7 @@
   "PDF": "Testo",
   "nro_pgg": 5,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-48-27042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 52-05052021"
 }
 ,{
   "pro_com": 85018,
@@ -3273,7 +3301,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-49-28042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 55-12052021"
 }
 ,{
   "pro_com": 83101,
@@ -3293,7 +3321,7 @@
   "pro_com": 87003,
   "comune": "Aci Catena",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3307,7 +3335,7 @@
   "pro_com": 87006,
   "comune": "Adrano",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3321,7 +3349,7 @@
   "pro_com": 82008,
   "comune": "Baucina",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3329,13 +3357,13 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-49-28042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 52-05052021"
 }
 ,{
   "pro_com": 82009,
   "comune": "Belmonte Mezzagno",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3343,13 +3371,13 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-49-28042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 52-05052021"
 }
 ,{
   "pro_com": 82013,
   "comune": "Borgetto",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3363,7 +3391,7 @@
   "pro_com": 86006,
   "comune": "Catenanuova",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3377,7 +3405,7 @@
   "pro_com": 86008,
   "comune": "Cerami",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3385,13 +3413,13 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-49-28042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 52-05052021"
 }
 ,{
   "pro_com": 82031,
   "comune": "Cinisi",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3405,7 +3433,7 @@
   "pro_com": 82038,
   "comune": "Giardinello",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3413,13 +3441,13 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-49-28042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 52-05052021"
 }
 ,{
   "pro_com": 84020,
   "comune": "Lampedusa e Linosa",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3427,13 +3455,13 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-49-28042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 52-05052021"
 }
 ,{
   "pro_com": 82044,
   "comune": "Lascari",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3447,7 +3475,7 @@
   "pro_com": 89011,
   "comune": "Lentini",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3461,7 +3489,7 @@
   "pro_com": 85008,
   "comune": "Marianopoli",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3475,7 +3503,7 @@
   "pro_com": 82047,
   "comune": "Mezzojuso",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3483,13 +3511,13 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-49-28042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 52-05052021"
 }
 ,{
   "pro_com": 82048,
   "comune": "Misilmeri",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3503,7 +3531,7 @@
   "pro_com": 82049,
   "comune": "Monreale",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3517,7 +3545,7 @@
   "pro_com": 85012,
   "comune": "Mussomeli",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-03",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3525,13 +3553,13 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-49-28042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente revocata dall'ordinanza 51-03052021"
 }
 ,{
   "pro_com": 82054,
   "comune": "Partinico",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3545,7 +3573,7 @@
   "pro_com": 82070,
   "comune": "Termini Imerese",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3553,13 +3581,13 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-49-28042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 52-05052021"
 }
 ,{
   "pro_com": 82079,
   "comune": "Villabate",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3573,7 +3601,7 @@
   "pro_com": 82080,
   "comune": "Villafrati",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3587,7 +3615,7 @@
   "pro_com": 82014,
   "comune": "Caccamo",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3601,7 +3629,7 @@
   "pro_com": 82018,
   "comune": "Campofiorito",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3615,7 +3643,7 @@
   "pro_com": 82027,
   "comune": "Cefalù",
   "zona": "rossa",
-  "data_inizio": "2021-04-29",
+  "data_inizio": "2021-04-28",
   "data_fine": "2021-05-05",
   "id_ordinanza": "49-28042021",
   "nro_ordinanza": 49,
@@ -3623,7 +3651,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-49-28042021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 52-05052021"
 }
 ,{
   "pro_com": 83061,
@@ -3637,7 +3665,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2050%20del%2030%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 55-12052021"
 }
 ,{
   "pro_com": 84031,
@@ -3651,7 +3679,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2050%20del%2030%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 55-12052021"
 }
 ,{
   "pro_com": 85017,
@@ -3665,13 +3693,13 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2050%20del%2030%20aprile%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente revocata dall'ordinanza 54-10052021"
 }
 ,{
   "pro_com": 83042,
   "comune": "Longi",
   "zona": "rossa",
-  "data_inizio": "2021-05-01",
+  "data_inizio": "2021-04-30",
   "data_fine": "2021-05-07",
   "id_ordinanza": "50-30042021",
   "nro_ordinanza": 50,
@@ -3687,6 +3715,20 @@
   "zona": "rossa",
   "data_inizio": "2021-05-05",
   "data_fine": "2021-05-19",
+  "id_ordinanza": "51-03052021",
+  "nro_ordinanza": 51,
+  "data_ordinanza": "2021-05-03",
+  "PDF": "Testo",
+  "nro_pgg": 6,
+  "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/152963604.PDF",
+  "note": ""
+}
+,{
+  "pro_com": 85012,
+  "comune": "Mussomeli",
+  "zona": "rossa",
+  "data_inizio": "2021-05-03",
+  "data_fine": "2021-05-03",
   "id_ordinanza": "51-03052021",
   "nro_ordinanza": 51,
   "data_ordinanza": "2021-05-03",
@@ -3791,7 +3833,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-52-05052021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 55-12052021"
 }
 ,{
   "pro_com": 82038,
@@ -3847,7 +3889,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-52-05052021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 55-12052021"
 }
 ,{
   "pro_com": 82063,
@@ -3861,7 +3903,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-52-05052021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 55-12052021"
 }
 ,{
   "pro_com": 82066,
@@ -3875,7 +3917,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-52-05052021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 55-12052021"
 }
 ,{
   "pro_com": 82070,
@@ -3903,7 +3945,7 @@
   "PDF": "Testo",
   "nro_pgg": 5,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-53-08052021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 58-18052021"
 }
 ,{
   "pro_com": 85015,
@@ -3931,7 +3973,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2054%20del%2010%20maggio%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 58-18052021"
 }
 ,{
   "pro_com": 85017,
@@ -3959,7 +4001,7 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-55-120521.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 62-26052021"
 }
 ,{
   "pro_com": 84035,
@@ -3980,14 +4022,14 @@
   "comune": "Gela",
   "zona": "rossa",
   "data_inizio": "2021-05-13",
-  "data_fine": "2021-05-13",
+  "data_fine": "2021-05-19",
   "id_ordinanza": "55-12052021",
   "nro_ordinanza": 55,
   "data_ordinanza": "2021-05-12",
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-55-120521.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente revocata dall'ordinanza 56-13052021"
 }
 ,{
   "pro_com": 87027,
@@ -4043,7 +4085,7 @@
   "PDF": "Testo",
   "nro_pgg": 7,
   "link_ordinanza": "http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-55-120521.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 58-18052021"
 }
 ,{
   "pro_com": 82066,
@@ -4127,7 +4169,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2057%20del%2014%20maggio%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente revocata dall'ordinanza 58-18052021"
 }
 ,{
   "pro_com": 83089,
@@ -4141,13 +4183,13 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2057%20del%2014%20maggio%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente revocata dall'ordinanza 61-25052021"
 }
 ,{
   "pro_com": 89020,
   "comune": "Portopalo di Capo Passero",
   "zona": "rossa",
-  "data_inizio": "2021-05-16",
+  "data_inizio": "2021-05-18",
   "data_fine": "2021-05-18",
   "id_ordinanza": "58-18052021",
   "nro_ordinanza": 58,
@@ -4169,7 +4211,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2058%20del%2018%20maggio%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 61-25052021"
 }
 ,{
   "pro_com": 82063,
@@ -4183,7 +4225,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2058%20del%2018%20maggio%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 63-27052021"
 }
 ,{
   "pro_com": 82078,
@@ -4197,7 +4239,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2058%20del%2018%20maggio%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 63-27052021"
 }
 ,{
   "pro_com": 87022,
@@ -4225,7 +4267,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2061%20del%2025-05-2021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente revocata dall'ordinanza 65-31052021"
 }
 ,{
   "pro_com": 83089,
@@ -4245,7 +4287,7 @@
   "pro_com": 87057,
   "comune": "Maniace",
   "zona": "rossa",
-  "data_inizio": "2021-05-25",
+  "data_inizio": "2021-05-26",
   "data_fine": "2021-06-03",
   "id_ordinanza": "61-25052021",
   "nro_ordinanza": 61,
@@ -4267,7 +4309,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza-62-26052021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 66-01062021"
 }
 ,{
   "pro_com": 86010,
@@ -4289,13 +4331,13 @@
   "zona": "rossa",
   "data_inizio": "2021-05-28",
   "data_fine": "2021-06-03",
-  "id_ordinanza": "64-27052021",
-  "nro_ordinanza": 64,
+  "id_ordinanza": "63-27052021",
+  "nro_ordinanza": 63,
   "data_ordinanza": "2021-05-27",
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2063%20del%2027%20maggio%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 66-01062021"
 }
 ,{
   "pro_com": 82045,
@@ -4303,13 +4345,13 @@
   "zona": "rossa",
   "data_inizio": "2021-05-28",
   "data_fine": "2021-06-03",
-  "id_ordinanza": "64-27052021",
-  "nro_ordinanza": 64,
+  "id_ordinanza": "63-27052021",
+  "nro_ordinanza": 63,
   "data_ordinanza": "2021-05-27",
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%20n.%2063%20del%2027%20maggio%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente revocata dall'ordinanza 66-01062021"
 }
 ,{
   "pro_com": 82063,
@@ -4317,8 +4359,8 @@
   "zona": "rossa",
   "data_inizio": "2021-05-26",
   "data_fine": "2021-06-03",
-  "id_ordinanza": "64-27052021",
-  "nro_ordinanza": 64,
+  "id_ordinanza": "63-27052021",
+  "nro_ordinanza": 63,
   "data_ordinanza": "2021-05-27",
   "PDF": "Immagine",
   "nro_pgg": 6,
@@ -4331,8 +4373,8 @@
   "zona": "rossa",
   "data_inizio": "2021-05-26",
   "data_fine": "2021-06-03",
-  "id_ordinanza": "64-27052021",
-  "nro_ordinanza": 64,
+  "id_ordinanza": "63-27052021",
+  "nro_ordinanza": 63,
   "data_ordinanza": "2021-05-27",
   "PDF": "Immagine",
   "nro_pgg": 6,
@@ -4379,14 +4421,14 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/ordinanza-66-01062021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 67-09062021"
 }
 ,{
   "pro_com": 82045,
   "comune": "Lercara Friddi",
   "zona": "rossa",
-  "data_inizio": "2021-06-01",
-  "data_fine": "2021-06-01",
+  "data_inizio": "2021-06-02",
+  "data_fine": "2021-06-02",
   "id_ordinanza": "66-01062021",
   "nro_ordinanza": 66,
   "data_ordinanza": "2021-06-01",
@@ -4399,7 +4441,7 @@
   "pro_com": 82037,
   "comune": "Geraci Siculo",
   "zona": "rossa",
-  "data_inizio": "2021-06-01",
+  "data_inizio": "2021-06-03",
   "data_fine": "2021-06-10",
   "id_ordinanza": "66-01062021",
   "nro_ordinanza": 66,
@@ -4413,7 +4455,7 @@
   "pro_com": 87049,
   "comune": "Scordia",
   "zona": "rossa",
-  "data_inizio": "2021-06-01",
+  "data_inizio": "2021-06-03",
   "data_fine": "2021-06-10",
   "id_ordinanza": "66-01062021",
   "nro_ordinanza": 66,
@@ -4435,7 +4477,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%2067del%209%20giugno%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 70-17062021"
 }
 ,{
   "pro_com": 89010,
@@ -4469,7 +4511,7 @@
   "pro_com": 82060,
   "comune": "Prizzi",
   "zona": "rossa",
-  "data_inizio": "2021-06-11",
+  "data_inizio": "2021-06-10",
   "data_fine": "2021-06-17",
   "id_ordinanza": "67-09062021",
   "nro_ordinanza": 67,
@@ -4505,7 +4547,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%2069%20del%2013%20giugno%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 72-24062021"
 }
 ,{
   "pro_com": 86018,
@@ -4533,7 +4575,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%2070%20del%2017%20giugno%202021(firmato).pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 72-24062021"
 }
 ,{
   "pro_com": 86002,
@@ -4561,7 +4603,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%2072%20del%2024%20giugno%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente revocata dall'ordinanza 73-30062021"
 }
 ,{
   "pro_com": 86019,
@@ -4575,13 +4617,13 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione/Ordinanza%2072%20del%2024%20giugno%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente revocata dall'ordinanza 73-30062021"
 }
 ,{
   "pro_com": 85017,
   "comune": "Santa Caterina Villarmosa",
   "zona": "rossa",
-  "data_inizio": "2021-06-24",
+  "data_inizio": "2021-06-30",
   "data_fine": "2021-06-30",
   "id_ordinanza": "73-30062021",
   "nro_ordinanza": 73,
@@ -4595,7 +4637,7 @@
   "pro_com": 86019,
   "comune": "Valguarnera Caropepe",
   "zona": "rossa",
-  "data_inizio": "2021-06-24",
+  "data_inizio": "2021-06-30",
   "data_fine": "2021-06-30",
   "id_ordinanza": "73-30062021",
   "nro_ordinanza": 73,
@@ -4617,7 +4659,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-07/ordinanza%20n.74.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 77-14072021"
 }
 ,{
   "pro_com": 86014,
@@ -4631,7 +4673,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-07/re340.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 80-21072021"
 }
 ,{
   "pro_com": 85015,
@@ -4645,7 +4687,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-07/Ordinanza%2077%20del%2014%20luglio%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 80-21072021"
 }
 ,{
   "pro_com": 85009,
@@ -4659,7 +4701,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-07/Ordinanza%2077%20del%2014%20luglio%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 80-21072021"
 }
 ,{
   "pro_com": 85007,
@@ -4673,7 +4715,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-07/re342.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 81-23072021"
 }
 ,{
   "pro_com": 84007,
@@ -4729,7 +4771,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-07/Ordinanza%2080%28firmato%29.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente revocata dall'ordinanza 81-23072021"
 }
 ,{
   "pro_com": 85015,
@@ -4763,7 +4805,7 @@
   "pro_com": 84009,
   "comune": "Cammarata",
   "zona": "rossa",
-  "data_inizio": "2021-07-23",
+  "data_inizio": "2021-07-25",
   "data_fine": "2021-07-29",
   "id_ordinanza": "81-23072021",
   "nro_ordinanza": 81,
@@ -4777,7 +4819,7 @@
   "pro_com": 84036,
   "comune": "San Giovanni Gemini",
   "zona": "rossa",
-  "data_inizio": "2021-07-23",
+  "data_inizio": "2021-07-25",
   "data_fine": "2021-07-29",
   "id_ordinanza": "81-23072021",
   "nro_ordinanza": 81,
@@ -4813,7 +4855,7 @@
   "PDF": "Testo",
   "nro_pgg": 8,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-08/Ordinanza%2085%20con%20allegato%20A%28firmato%29.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 88-02092021"
 }
 ,{
   "pro_com": 85013,
@@ -4827,7 +4869,7 @@
   "PDF": "Testo",
   "nro_pgg": 8,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-08/Ordinanza%2085%20con%20allegato%20A%28firmato%29.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 88-02092021"
 }
 ,{
   "pro_com": 88003,
@@ -4841,7 +4883,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-08/Ordinanza%2086%20del%2026%20agosto%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 89-06092021"
 }
 ,{
   "pro_com": 88012,
@@ -4861,7 +4903,7 @@
   "pro_com": 86004,
   "comune": "Barrafranca",
   "zona": "arancione",
-  "data_inizio": "2021-09-03",
+  "data_inizio": "2021-09-02",
   "data_fine": "2021-09-09",
   "id_ordinanza": "88-02092021",
   "nro_ordinanza": 88,
@@ -4875,7 +4917,7 @@
   "pro_com": 85013,
   "comune": "Niscemi",
   "zona": "arancione",
-  "data_inizio": "2021-09-03",
+  "data_inizio": "2021-09-02",
   "data_fine": "2021-09-09",
   "id_ordinanza": "88-02092021",
   "nro_ordinanza": 88,
@@ -4883,7 +4925,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-09/Ordinanza%2088%20del%2002%20settembre%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 90-09092021"
 }
 ,{
   "pro_com": 89001,
@@ -4953,7 +4995,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-09/Ordinanza%2088%20del%2002%20settembre%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 91-14092021"
 }
 ,{
   "pro_com": 89013,
@@ -5065,7 +5107,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-09/Ordinanza%2091%28firmato%29.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 92-21092021"
 }
 ,{
   "pro_com": 89010,
@@ -5079,7 +5121,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-09/Ordinanza%2092%28firmato%29.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 93-28092021"
 }
 ,{
   "pro_com": 89010,
@@ -5093,7 +5135,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-09/Ordinanza%2093%28firmato%29.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 94-06102021"
 }
 ,{
   "pro_com": 89010,
@@ -5219,7 +5261,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-11/Ordinanza%20n.%20100%28firmato%29.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 102-10122021"
 }
 ,{
   "pro_com": 87043,
@@ -5253,7 +5295,7 @@
   "pro_com": 87025,
   "comune": "Militello in Val di Catania",
   "zona": "arancione",
-  "data_inizio": "2021-12-10",
+  "data_inizio": "2021-12-09",
   "data_fine": "2021-12-20",
   "id_ordinanza": "102-10122021",
   "nro_ordinanza": 102,
@@ -5289,7 +5331,7 @@
   "PDF": "Testo",
   "nro_pgg": 5,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-12/Ordinanza%20n%C3%82%C2%B0%20103%20del%2016%20dicembre%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 106-27122021"
 }
 ,{
   "pro_com": 87030,
@@ -5317,7 +5359,7 @@
   "PDF": "Testo",
   "nro_pgg": 5,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-12/Ordinanza%20n%C3%82%C2%B0%20103%20del%2016%20dicembre%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 106-27122021"
 }
 ,{
   "pro_com": 83106,
@@ -5331,7 +5373,7 @@
   "PDF": "Testo",
   "nro_pgg": 5,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-12/Ordinanza%20n%C3%82%C2%B0%20103%20del%2016%20dicembre%202021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 106-27122021"
 }
 ,{
   "pro_com": 85003,
@@ -5359,7 +5401,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-12/Ordinanza%20104%28firmato%29.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 107-30122021"
 }
 ,{
   "pro_com": 83021,
@@ -5387,7 +5429,7 @@
   "PDF": "Testo",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-12/Ordinanza%20104%28firmato%29.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 107-30122021"
 }
 ,{
   "pro_com": 83049,
@@ -5429,7 +5471,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-12/Ordinanza%20105%20del%2024.12.2021.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 108-05012022"
 }
 ,{
   "pro_com": 85008,
@@ -5499,7 +5541,7 @@
   "PDF": "Immagine",
   "nro_pgg": 6,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2021-12/ordinanza%20n.107.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 02-12012022"
 }
 ,{
   "pro_com": 83086,
@@ -5519,7 +5561,7 @@
   "pro_com": 83005,
   "comune": "Barcellona Pozzo di Gotto",
   "zona": "arancione",
-  "data_inizio": "2021-12-30",
+  "data_inizio": "2021-12-31",
   "data_fine": "2022-01-05",
   "id_ordinanza": "107-30122021",
   "nro_ordinanza": 107,
@@ -5533,7 +5575,7 @@
   "pro_com": 83035,
   "comune": "Gualtieri Sicaminò",
   "zona": "arancione",
-  "data_inizio": "2021-12-30",
+  "data_inizio": "2021-12-31",
   "data_fine": "2022-01-05",
   "id_ordinanza": "107-30122021",
   "nro_ordinanza": 107,
@@ -5611,7 +5653,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 89002,
@@ -5625,7 +5667,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 86004,
@@ -5667,7 +5709,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 84011,
@@ -5681,7 +5723,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 89005,
@@ -5695,7 +5737,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 83008,
@@ -5723,7 +5765,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 86006,
@@ -5793,7 +5835,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 89010,
@@ -5807,7 +5849,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 86010,
@@ -5849,7 +5891,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 86011,
@@ -5877,7 +5919,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 86012,
@@ -5919,7 +5961,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 89014,
@@ -5933,7 +5975,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 89015,
@@ -5947,7 +5989,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 84027,
@@ -5961,7 +6003,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 07-20012022"
 }
 ,{
   "pro_com": 86014,
@@ -6017,7 +6059,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 86016,
@@ -6045,7 +6087,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 89017,
@@ -6059,7 +6101,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 89018,
@@ -6073,7 +6115,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 89019,
@@ -6087,7 +6129,7 @@
   "PDF": "Immagine",
   "nro_pgg": 7,
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/Ordinanza%20n.%201%20del%207%20gennaio%202022.pdf",
-  "note": ""
+  "note": "La presente ordinanza è stata successivamente prorogata dall'ordinanza 06-19012022"
 }
 ,{
   "pro_com": 86017,
