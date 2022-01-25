@@ -17,7 +17,7 @@ jobs:
       - name: Check CSV hash
         id: get-hash
         run:
-          echo "::set-output name=remote::$(curl -skL "https://docs.google.com/spreadsheets/d/e/2PACX-1vSA38rXb3R9B0lYUtHvgvr9aWcxwiYAxksTTAg-jIbe1qjGh2bGANgUlUnuynG-UL6U2iLY7rgPvuOH/pub?gid=1759652035&single=true&output=csv" > download.csv && sha1sum download.csv | cut -f 1 -d " ")"
+          echo "::set-output name=remote::$(curl -skL "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3jzuTRwdCbmbi4NlJRFByXt_iebonhBtZs8skeUe-dQY6bDQYCG39oIKK2VEnh8jhLcBtGSp7hAjD/pub?gid=1462243235&single=true&output=csv" > download.csv && sha1sum download.csv | cut -f 1 -d " ")"
         shell: bash
 
       - uses: actions/cache@v2
@@ -34,7 +34,7 @@ jobs:
       - name: Download and update CSV data
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
-          mlr --csv cut -x -f provincia,proroga/cessa,sovrapposizione,cessa,area_kmq,pop_2020 then \
+          mlr --csv cut -x -f provincia,ordinanza,durata_effettiva,no_scuola then \
           cut -o -f pro_com,comune,zona,data_inizio,data_fine,id_ordinanza,nro_ordinanza,data_ordinanza,PDF,nro_pgg,link_ordinanza,note download.csv > data.csv
           echo "Dati aggiornati!"
           
