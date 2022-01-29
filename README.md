@@ -3,7 +3,7 @@
 
 A partire dal 21 dicembre 2020, la Presidenza della Regione Siciliana emette **ordinanze** in **PDF** (_Ulteriori misure per l'emergenza epidemiologica da Covid-19_) con le quali vengono imposte restrizioni ai **comuni siciliani** e istituite le `zone` `rosse`, `arancioni`, `gialle` al fine di fronteggiare la pandemia.
 
-Tali file, spesso frutto di scansione, sono raccolti nel [sito ufficiale](https://www.regione.sicilia.it/) nella sezione "[Servizi informativi](https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive?f%5B0%5D=category%3A26)” e non si prestano né ad **analisi** né ad una facile lettura (soprattutto se sono immagini); abbiamo pensato di raccogliere tutte le ordinanze in un [foglio elettronico](https://docs.google.com/spreadsheets/d/14f2AUf3k3jP60sPkUhzqhSIFlTEuUFCfac9b-1_29jc/edit#gid=1669181736) (che alimenta i dati di questo repository) e rilasciare queste informazioni in **formato open**.
+Tali file, spesso frutto di scansione, sono raccolti nel [sito ufficiale](https://www.regione.sicilia.it/) nella sezione "[Servizi informativi](https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive?f%5B0%5D=category%3A26)” e non si prestano né ad **analisi** né ad una facile lettura (soprattutto se sono immagini); abbiamo pensato di raccogliere tutte le ordinanze in un [foglio elettronico](https://docs.google.com/spreadsheets/d/1qHGoC3qEkH6jyANNwsIkqnuLZk_gcaV5bSX4COphyYs/edit?usp=sharing) (che alimenta i dati di questo repository) e rilasciare queste informazioni in **formato open**.
 
 Dati estratti da [Totò Fiandaca](https://twitter.com/totofiandaca)
 
@@ -40,7 +40,7 @@ Note <br>
 ## Link utili
 - [Blogpost (IT)](https://opendatasicilia.it/2021/04/10/covid-19-e-i-comuni-siciliani-in-zona-rossa-anno-2021/) di [Totò Fiandaca](https://twitter.com/totofiandaca)
 - [Blogpost (EN)](https://opendatasicilia.it/2021/04/22/red-zones-in-sicily-a-story-of-civic-hacking/) translated by [Paola Masuzzo](https://twitter.com/pcmasuzzo)
-- [Google Sheet](https://docs.google.com/spreadsheets/d/14f2AUf3k3jP60sPkUhzqhSIFlTEuUFCfac9b-1_29jc/edit#gid=1669181736) di [Totò Fiandaca](https://twitter.com/totofiandaca)
+- [Google Sheet](https://docs.google.com/spreadsheets/d/1qHGoC3qEkH6jyANNwsIkqnuLZk_gcaV5bSX4COphyYs/edit?usp=sharing) di [Totò Fiandaca](https://twitter.com/totofiandaca)
 
 ## Elaborazioni
 Dati aperti di questo tipo consentono la realizzazione di svariate elaborazioni:
