@@ -8105,4 +8105,46 @@
   "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-01/ordinanza%20n.7.pdf",
   "note": ""
 }
+,{
+  "pro_com": 86001,
+  "comune": "Agira",
+  "zona": "arancione",
+  "data_inizio": "2022-02-20",
+  "data_fine": "2022-03-03",
+  "id_ordinanza": "08-18022022",
+  "nro_ordinanza": 8,
+  "data_ordinanza": "2022-02-18",
+  "PDF": "Immagine",
+  "nro_pgg": 6,
+  "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-02/ORDINANZA%20n.%208%20del%2018.02.2022.pdf",
+  "note": ""
+}
+,{
+  "pro_com": 86011,
+  "comune": "Leonforte",
+  "zona": "arancione",
+  "data_inizio": "2022-02-20",
+  "data_fine": "2022-03-03",
+  "id_ordinanza": "08-18022022",
+  "nro_ordinanza": 8,
+  "data_ordinanza": "2022-02-18",
+  "PDF": "Immagine",
+  "nro_pgg": 6,
+  "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-02/ORDINANZA%20n.%208%20del%2018.02.2022.pdf",
+  "note": ""
+}
+,{
+  "pro_com": 86019,
+  "comune": "Valguarnera Caropepe",
+  "zona": "arancione",
+  "data_inizio": "2022-02-20",
+  "data_fine": "2022-03-03",
+  "id_ordinanza": "08-18022022",
+  "nro_ordinanza": 8,
+  "data_ordinanza": "2022-02-18",
+  "PDF": "Immagine",
+  "nro_pgg": 6,
+  "link_ordinanza": "https://www.regione.sicilia.it/sites/default/files/2022-02/ORDINANZA%20n.%208%20del%2018.02.2022.pdf",
+  "note": ""
+}
 ]
