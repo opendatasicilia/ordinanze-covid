@@ -65,4 +65,4 @@ Data | Testata e Articolo
 2021-04-15 | [24live di Barcellona P.G.](https://24live.it/2021/04/15/la-mappa-dei-comuni-siciliani-in-zona-rossa-aggiornata-con-opendatasicilia/)
 
 ## Licenza
-<a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CC-BY_icon.svg/640px-CC-BY_icon.svg.png" width="150"/></a>
+<a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="150"/></a>
